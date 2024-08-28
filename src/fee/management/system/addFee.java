@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.text.SimpleDateFormat;
 import javax.swing.JOptionPane;
 import java.util.Date;
-
+ 
 public class addFee extends javax.swing.JFrame {
 
     public addFee() {
@@ -316,7 +316,7 @@ public class addFee extends javax.swing.JFrame {
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 16)); // NOI18N
         jLabel5.setText("Date of Transcation :");
         panelParent.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(419, 68, 171, 28));
-        panelParent.add(date_tran, new org.netbeans.lib.awtextra.AbsoluteConstraints(627, 68, 154, 30));
+        panelParent.add(date_tran, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 70, 154, 30));
 
         lbl_bank.setFont(new java.awt.Font("Segoe UI", 1, 16)); // NOI18N
         lbl_bank.setText("Bank Name               :");
@@ -431,7 +431,7 @@ public class addFee extends javax.swing.JFrame {
         });
         panel_child.add(btn_proceed, new org.netbeans.lib.awtextra.AbsoluteConstraints(612, 409, 185, 49));
 
-        panelParent.add(panel_child, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 182, -1, -1));
+        panelParent.add(panel_child, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 182, -1, 490));
 
         getContentPane().add(panelParent, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 850, 680));
 

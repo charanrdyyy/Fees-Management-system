@@ -323,7 +323,7 @@
         <Component class="com.toedter.calendar.JDateChooser" name="date_tran">
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-              <AbsoluteConstraints x="627" y="68" width="154" height="30"/>
+              <AbsoluteConstraints x="600" y="70" width="154" height="30"/>
             </Constraint>
           </Constraints>
         </Component>
@@ -350,7 +350,7 @@
         <Container class="javax.swing.JPanel" name="panel_child">
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-              <AbsoluteConstraints x="0" y="182" width="-1" height="-1"/>
+              <AbsoluteConstraints x="0" y="182" width="-1" height="490"/>
             </Constraint>
           </Constraints>
 

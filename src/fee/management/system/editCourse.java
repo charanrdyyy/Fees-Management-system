@@ -9,7 +9,7 @@ import javax.swing.table.TableModel;
 
 public class editCourse extends javax.swing.JFrame {
     DefaultTableModel model;
-    public editCourse() {
+    public editCourse(){
         initComponents();
         setRecords();
     }
@@ -438,14 +438,12 @@ public class editCourse extends javax.swing.JFrame {
         }
         //</editor-fold>
 
-        /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new editCourse().setVisible(true);
             }
         });
     }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnEdit;
     private javax.swing.JButton btnLogout;

@@ -32,12 +32,12 @@ public class home extends javax.swing.JFrame {
         jLabel9.setFont(new java.awt.Font("Times New Roman", 0, 35)); // NOI18N
         jLabel9.setForeground(new java.awt.Color(255, 255, 255));
         jLabel9.setText("     Sri Chaitanya Junior Collage");
-        jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 10, 474, 61));
+        jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 10, 474, 61));
 
         jLabel10.setFont(new java.awt.Font("Times New Roman", 0, 20)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(255, 255, 255));
         jLabel10.setText("IIT Academy  Vijayawada, Andhra Pradesh - 521104 ");
-        jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 80, -1, 30));
+        jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 90, -1, 30));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1020, 160));
 
@@ -60,7 +60,7 @@ public class home extends javax.swing.JFrame {
                 jLabel3MouseExited(evt);
             }
         });
-        jPanel5.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 220, 90));
+        jPanel5.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 10, 170, 90));
 
         jPanel4.setBackground(new java.awt.Color(0, 204, 255));
         jPanel4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED, new java.awt.Color(255, 255, 255), new java.awt.Color(0, 0, 0), null, null));
